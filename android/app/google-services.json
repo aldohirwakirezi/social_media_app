@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "39223626542",
+    "project_id": "social-media-app-auth-eaf69",
+    "storage_bucket": "social-media-app-auth-eaf69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39223626542:android:edc6d64e335fb7a38a88bf",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39223626542-qdg1bcrc7atl939qpdmjejp084r0d67l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxN7DZFpTPD_A-ePEzVURH6gNdpX6rHoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39223626542-qdg1bcrc7atl939qpdmjejp084r0d67l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39223626542-1j5ssrog1k4thbijb06u6ilge02svgj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
